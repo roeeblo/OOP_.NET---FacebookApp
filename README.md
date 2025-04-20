@@ -4,7 +4,13 @@ Full display of clean coding in C# and .Net principles, with UML-design patterns
 
 ![image](https://github.com/user-attachments/assets/0d9ebbf6-efc3-4f7f-95bb-7e973ce690a3)
 
+# Fully functioning Friend's Leaderboard
 
+![image](https://github.com/user-attachments/assets/7efbdac7-908c-4e32-aee8-d8ec6674232d)
+
+# View all your facebook Photos
+
+![image](https://github.com/user-attachments/assets/57d2ab40-f875-44e7-9660-423ea2866b3e)
 
 
 # UML
