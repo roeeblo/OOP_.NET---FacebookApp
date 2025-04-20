@@ -1,6 +1,6 @@
 # Facebook API Integration App  
 A Windows Forms application demonstrating professional Facebook API integration with **OAuth 2.0 login**, data fetching, and interactive features.
-Full display of clean coding in C# and .Net principles, with UML-design patterns. 
+Full display of clean coding in C#, OOP and .Net principles, with UML-design patterns. 
 
 
 ![image](https://github.com/user-attachments/assets/0d9ebbf6-efc3-4f7f-95bb-7e973ce690a3)
