@@ -5,10 +5,12 @@ Full display of clean coding in C# and .Net principles, with UML-design patterns
 ![image](https://github.com/user-attachments/assets/0d9ebbf6-efc3-4f7f-95bb-7e973ce690a3)
 
 # Working Game-Zone filled with Facebook Games
+Play Facebook games in a dedicated tab with seamless API connectivity. 
 
 ![image](https://github.com/user-attachments/assets/35f0bdb9-caf5-4897-b9b5-89b695c83192)
 
 # Fully functioning Friend's Leaderboard
+Algorithmically ranks friends by engagement (likes = 1pt, comments = 3pts). 
 
 ![image](https://github.com/user-attachments/assets/7efbdac7-908c-4e32-aee8-d8ec6674232d)
 
